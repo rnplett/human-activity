@@ -49,6 +49,7 @@ Variable List:
 -----------------
 
 The complete list of descriptive or fixed variables are as follows:
+ 
  [1] "Subject"                        
  [2] "Activity"                       
 
