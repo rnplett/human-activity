@@ -15,28 +15,28 @@ Finally a Fast Fourier Transform (FFT) was applied to some of these signals prod
 These signals were used to estimate variables of the feature vector for each pattern:  
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
- tBodyAcc-XYZ
- tGravityAcc-XYZ
- tBodyAccJerk-XYZ
- tBodyGyro-XYZ
- tBodyGyroJerk-XYZ
- tBodyAccMag
- tGravityAccMag
- tBodyAccJerkMag
- tBodyGyroMag
- tBodyGyroJerkMag
- fBodyAcc-XYZ
- fBodyAccJerk-XYZ
- fBodyGyro-XYZ
- fBodyAccMag
- fBodyAccJerkMag
- fBodyGyroMag
- fBodyGyroJerkMag
+- tBodyAcc-XYZ
+- tGravityAcc-XYZ
+- tBodyAccJerk-XYZ
+- tBodyGyro-XYZ
+- tBodyGyroJerk-XYZ
+- tBodyAccMag
+- tGravityAccMag
+- tBodyAccJerkMag
+- tBodyGyroMag
+- tBodyGyroJerkMag
+- fBodyAcc-XYZ
+- fBodyAccJerk-XYZ
+- fBodyGyro-XYZ
+- fBodyAccMag
+- fBodyAccJerkMag
+- fBodyGyroMag
+- fBodyGyroJerkMag
 
 The set of variables that were estimated from these signals and used in the tidy data set are: 
 
- mean(): Mean value
- std(): Standard deviation
+- mean(): Mean value
+- std(): Standard deviation
 
 ** The *data_mean_std* dataset is a tidy dataset with all observations in the original dataset and all variables that relate to mean or standard deviations**
 
@@ -56,6 +56,7 @@ The complete list of descriptive or fixed variables are as follows:
  [2] "Activity"                       
 
 The complete list of responding or derived variables in these datasets is as follows:
+
  [3] "tBodyAcc.mean...X"              
  [4] "tBodyAcc.mean...Y"              
  [5] "tBodyAcc.mean...Z"              
